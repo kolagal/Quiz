@@ -33,21 +33,3 @@ form.addEventListener('submit', e => {
 
 });
 
-//window object (global object)
-// console.log('hello');
-// console.log(document.querySelector('form'));
-// alert('hello');
-// window.alert('hello');
-
-// setTimeout(() => {
-//   alert('hello, ninja!')
-// }, 3000);
-
-// let i = 0;
-// const timer = setInterval(() => {
-//     console.log('hello');
-//     i++;
-//     if(i === 3) {
-//         clearInterval(timer);
-//     }
-// }, 1000);
